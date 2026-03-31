@@ -1,5 +1,5 @@
 # Saas-Subsription-Model-Unit-Economics-Analytics
-Interactive Tableau dashboard &amp; SQL analysis for SaaS unit economics - Сase Study
+Interactive Tableau dashboard & SQL analysis for SaaS unit economics - Сase Study
 
 ## Objective
 The goal of this project is to build a analytics pipeline for a SaaS platform to evaluate business health, identify high-value subsription plans and optimize marketing budget allocation.
